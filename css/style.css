@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 0, 0);
+}
+article{
+    background-color: rgb(red);
+}
+nav{
+    background-color: rgb(rgb(206, 13, 13));
+}
